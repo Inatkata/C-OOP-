@@ -1,0 +1,14 @@
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\bin\Debug\net6.0\05. Football Team Generator.exe
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\bin\Debug\net6.0\05. Football Team Generator.deps.json
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\bin\Debug\net6.0\05. Football Team Generator.runtimeconfig.json
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\bin\Debug\net6.0\05. Football Team Generator.dll
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\bin\Debug\net6.0\05. Football Team Generator.pdb
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.AssemblyInfoInputs.cache
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.AssemblyInfo.cs
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.dll
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\refint\05. Football Team Generator.dll
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.pdb
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\05. Football Team Generator.genruntimeconfig.cache
+C:\Users\Ina\Desktop\C# OOP ExamPrep\02. Encapsulation - Exercise\05. Football Team Generator\05. Football Team Generator\obj\Debug\net6.0\ref\05. Football Team Generator.dll
